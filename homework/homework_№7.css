@@ -3,25 +3,47 @@ body{background-color: blanchedalmond;}
 .container{
 background-color: aliceblue;
 margin: 100px auto;
-width: 360px;
+width: 420px;
 padding: 56px 20px 91px 20px;
 border-radius: 20px;
 }
+
 .position-img{
     width: 74px;
     height: 74px;
     border-radius: 12px;
     background-color: beige;
 }
+img{
+    height: 70px;
+    
+}
 .position-title{
     color: rgb(90, 97, 97);
 }
-.menu-position{
+.menu-items{
     display: inline-block;
+    margin: 20px
 }
 .menu-position:hover .position-img{
     background-color: #EAE287;
 }
 .menu-position:hover .position-title{
     color: #000000;
+}
+.most-popular1{
+
+    margin-bottom: 8px;
+    text-align: left;
+}
+.most-popular2{
+
+    margin-bottom: 8px;
+    text-align: left;
+}
+.most-popular3{
+
+    margin-bottom: 8px;
+    text-align: left;
+
 }
