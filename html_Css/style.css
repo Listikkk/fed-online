@@ -1,0 +1,12 @@
+
+#header{background-color: black; color: white;}
+header{text-align: center;
+background-color: black; color: white; font-size: 30px; 
+}
+.text-card{background-color: black; color: white;}
+.text-card.big{
+    font-size: 30px; color: rgb(243, 2, 2);
+
+}
+
+
