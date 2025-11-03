@@ -1,0 +1,173 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 255, 255);
+
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100,
+    "YTLC" 500;
+}
+.cont{
+    background-color: rgba(217, 217, 217, 1);
+    width: 81.875%;
+    height: 39px;
+    margin: 0 auto;
+}
+.main{
+    margin: 0 auto;
+    width: 1440px;
+    height: 1000px;
+    
+}
+strong{
+    font-size: 32px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.thi{
+    margin-right: 137px;
+    font-size: 19px;
+}
+.fir{
+    margin-left: 137px;
+}
+span{
+    margin-right: 35px;
+}
+.main2{
+    margin-top: 250px;
+    margin-left: 135px;
+    margin-right: 135px;
+}
+.rel{
+    position: relative;
+    
+}
+.abs{
+    position: absolute;
+    z-index: -1;
+}
+.abs1{
+    position: absolute;
+    left:1180px
+    
+}
+.text{
+    text-align: left;
+    margin-left: 695px;
+}
+.ws{
+    color: rgba(242, 153, 74, 1);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 1px;
+}
+.md{
+    color: rgba(0, 0, 0, 1);
+    font-family: Nunito Sans;
+    font-size: 65px;
+    font-weight: 800;
+    line-height: 120%;
+}
+.palka{
+    border-radius: 4px;
+    background: rgba(242, 153, 74, 1);
+    width: 188px;
+    height: 6px;
+    margin-top: 71px;
+}
+.mtext{
+    color: var(--Gray 2, rgba(79, 79, 79, 1));
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 180%;
+letter-spacing: 1px;
+text-align: left;
+width: 421px;
+}
+.circle{
+    border-radius: 50%;
+    background-color: #3F9AB7;
+    width: 85px;
+    height: 85px;
+    position: absolute;
+    
+}
+.circle1{
+    margin-top: 32px;
+    position: relative;
+}
+.cir{
+    margin-top: 24px;
+    z-index: 2;
+    position: absolute;
+    margin-left: 24px;
+}
+.cirtext{
+    position: absolute;
+    left: 100px;
+    margin-top: 25px;
+    color: rgba(0, 0, 0, 1);
+font-family: Nunito Sans;
+font-size: 18px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 1px;
+text-align: left;
+}
+.polosa{
+    width: 100%;
+    height: 118px;
+    background-color: rgba(63, 154, 183, 1);;
+    z-index: -1;
+    margin: 300px auto;
+    
+}
+.six{
+    z-index: 3;
+}
+.seven{
+    z-index: 4;
+}
+.img1{
+    margin-left: 700px;
+    margin-top: 100px;
+    color: white;
+    padding-left: 100px;
+}
+.line{
+    margin-left: 1305px;
+    margin-right: 134px;
+    bottom: 183px;
+    width: 2px;
+    height: 401px;
+    background-color: rgba(51, 51, 51, 1);
+    position: absolute;
+    
+}
+.flex1{
+    position: flex;
+    flex-direction: column;
+    margin-left: 1295px;
+    align-items:center;
+}
+.facebook{
+width: 34px;
+height: 34px;
+border-radius: 50%;
+background-color: orange;
+
+}
+.fb{
+    margin: 8px 8px 8px 8px;
+}
