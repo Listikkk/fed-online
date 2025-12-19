@@ -1,0 +1,46 @@
+.collapse.navbar-collapse{
+    justify-content: flex-end;
+}
+.top-bg-section{
+    height: 520px;
+
+}
+.i{
+    border: solid 9px ;
+    border-radius: 50%;
+    overflow: hidden;
+    border-color: #81613B;
+    
+    
+    
+}
+
+.menu{
+
+}
+.text-menu{
+    font-size: 40px;
+}
+.cafe{
+    margin-bottom: 10px;
+}
+.bottom-news-section{
+    background-color: bisque;
+    height: 408px;
+}
+.news-text{
+    font-size: 30px;
+    text-align: center;
+}
+.news{
+    width: 1109px;
+    height: 102px;
+    margin: 100px auto;
+    background-color: white;
+    font-size: 16px;
+    text-align: start;
+    padding-top: 25px;
+}
+@media (min-width:500px){
+
+}
