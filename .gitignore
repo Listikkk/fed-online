@@ -1,0 +1,18 @@
+# git ignore
+
+node_modules/
+
+
+# інші файли
+secret.txt
+config.env
+
+
+
+# ігнор всіх файлів 
+
+*.log
+*.temp
+
+# ігнор файлів редакторів
+.vscode/
